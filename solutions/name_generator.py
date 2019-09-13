@@ -6,8 +6,10 @@ first_names = ['Anna', 'Maria', 'Katarzyna', 'Małgorzata', 'Agnieszka', 'Krysty
                'Jan', 'Andrzej', 'Piotr', 'Krzysztof', 'Tomasz', 'Paweł', 'Józef', 'Marcin', 'Marek']
 cities = ['Warszawy', 'Krakowa', 'Kielc', 'Poznania', 'Gdańska', 'Wrocławia', 'Płocka', 'Katowic', 'Leszna']
 
-
+# Jan z Gdańska wygrywa właśnie nagrodę 1000 zł!
 title = '{} z {} wygrywa właśnie nagrodę {} zł!'
+
+
 
 ######
 
