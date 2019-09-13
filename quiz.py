@@ -1,3 +1,5 @@
+# questions source: https://funtest.pl/test/funtestgry5004/
+
 questions = ['Jakie miasto jest stolicą Włoch? ',
              'Ile dni ma lipiec? ',
              'Który z oceanów jest największy? ',
